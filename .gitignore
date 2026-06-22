@@ -1,0 +1,4 @@
+node_modules/
+dist/
+*.log
+/Cartas La Cueva 6-26.pdf
